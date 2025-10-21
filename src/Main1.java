@@ -30,6 +30,10 @@ public class Main1 {
         System.out.println("git第一次提交");
         System.out.println("git第一次提交");
 
+        System.out.println("git第二次提交");
+        System.out.println("git第二次提交");
+        System.out.println("git第二次提交");
+
 
 
     }
