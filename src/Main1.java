@@ -26,6 +26,10 @@ public class Main1 {
         System.out.println("nextInt2=" + nextInt2);
         System.out.println("end");
 
+        System.out.println("git第一次提交");
+        System.out.println("git第一次提交");
+        System.out.println("git第一次提交");
+
 
 
     }
