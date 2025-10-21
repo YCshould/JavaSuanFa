@@ -1,8 +1,5 @@
 import java.math.BigDecimal;
 import java.util.Scanner;
-import java.util.function.Function;
-import java.util.function.Predicate;
-
 
 public class Main1 {
     public static void main(String[] args) {
@@ -37,6 +34,14 @@ public class Main1 {
         System.out.println("git第三次提交");
         System.out.println("git第三次提交");
         System.out.println("git第三次提交");
+
+        System.out.println("git第三次提交");
+        System.out.println("git第三次提交");
+        System.out.println("git第三次提交");
+
+        System.out.println("branch_1分支的git第一次提交");
+        System.out.println("branch_1分支的git第一次提交");
+        System.out.println("branch_1分支的git第一次提交");
 
 
 
