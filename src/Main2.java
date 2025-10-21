@@ -4,5 +4,8 @@ public class Main2 {
         System.out.println("This is Main2.java");
         System.out.println("This is the second file in the project.");
         System.out.println("我是branch_1,这是我提交的第一个功能点");
+        System.out.println("This is Main2.java");
+        System.out.println("This is the second file in the project.");
+        System.out.println("我是branch_2,这是我提交的第一个功能点");
     }
 }
