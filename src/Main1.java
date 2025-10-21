@@ -43,6 +43,10 @@ public class Main1 {
         System.out.println("branch_1分支的git第一次提交");
         System.out.println("branch_1分支的git第一次提交");
 
+        System.out.println("branch_1分支的git第二次提交");
+        System.out.println("branch_1分支的git第二次提交");
+        System.out.println("branch_1分支的git第二次提交");
+
 
 
     }
